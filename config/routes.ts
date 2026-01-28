@@ -37,6 +37,20 @@
 		icon: 'ArrowsAltOutlined',
 	},
 
+	{
+		path: '/todo',
+		name: 'Todolist',
+		component: './Todo',
+		icon: 'ArrowsAltOutlined',
+	},
+
+	{
+		path: '/guessnumber',
+		name: 'GuessNumber',
+		component: './GuessNumber',
+		icon: 'ArrowsAltOutlined',
+	},
+
 	// DANH MUC HE THONG
 	// {
 	// 	name: 'DanhMuc',
@@ -90,3 +104,4 @@
 		component: './exception/404',
 	},
 ];
+
